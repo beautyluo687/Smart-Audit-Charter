@@ -1,0 +1,6 @@
+{
+  "name": "Smart Audit Slide",
+  "description": "An interactive slide presentation app representing the AI-Enabled Audit Closed-loop framework, structured according to user visual specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
